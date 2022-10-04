@@ -10,7 +10,11 @@ public class Day1 {
 				long phone = 9688999284l;
 				char gender= 'm';
 				
+<<<<<<< HEAD
 				System.out.println("Sanjesh check");
+=======
+				System.out.println("Check 1");
+>>>>>>> 1fcff2b4cd73081516602270b8726a891ee8aeb4
 				
 				System.out.println(name);
 				System.out.println(age);
